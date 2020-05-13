@@ -1,0 +1,23 @@
+{
+  "name": "goose-module",
+  "version": "0.0.1",
+  "description": "A simple goose module containing some simple commands",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "StevenRafft",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "nil"
+  },
+  "keywords": [
+    "goose"
+  ]
+}
